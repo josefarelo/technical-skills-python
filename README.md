@@ -2,6 +2,10 @@
 
 ## 01 - Fundamentos de Python
 
-- Variables y tipos de datos
+- Variables y Tipos de Datos
 
 _Declaración de variables y comprensión de tipos primitivos y estructuras de datos en Python._
+
+- Control de Flujo
+
+_Uso de instrucciones condicionales y bucles (if, elif, else, for, while) en Python._
