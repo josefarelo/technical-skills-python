@@ -17,3 +17,7 @@ _Declaración y uso de funciones en Python, incluyendo funciones lambda._
 - Alcance (Scope)
 
 _Cómo funcionan los ámbitos de variables en Python._
+
+- Cierres (Closures)
+
+_Funciones que capturan el estado de su entorno en Python._
