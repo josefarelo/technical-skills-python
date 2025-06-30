@@ -22,6 +22,6 @@ _Cómo funcionan los ámbitos de variables en Python._
 
 _Funciones que capturan el estado de su entorno en Python._
 
-- Contexto This
+- Contexto Self
 
-_En Python, el equivalente a this es self, usado dentro de clases._
+_Cómo funciona el contexto de ejecución  Self._
