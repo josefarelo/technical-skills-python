@@ -21,3 +21,7 @@ _Cómo funcionan los ámbitos de variables en Python._
 - Cierres (Closures)
 
 _Funciones que capturan el estado de su entorno en Python._
+
+- Contexto This
+
+_En Python, el equivalente a this es self, usado dentro de clases._
