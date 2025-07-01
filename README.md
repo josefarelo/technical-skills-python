@@ -25,3 +25,7 @@ _Funciones que capturan el estado de su entorno en Python._
 - Contexto Self
 
 _Cómo funciona el contexto de ejecución  Self._
+
+- Manejo de errores y excepciones
+
+_Captura y manejo de errores usando try, except, y finally._
