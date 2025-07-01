@@ -29,3 +29,10 @@ _Cómo funciona el contexto de ejecución  Self._
 - Manejo de errores y excepciones
 
 _Captura y manejo de errores usando try, except, y finally._
+
+
+## 02 - Programación Orientada a Objetos en Python
+
+- Objetos y propiedades
+
+_Creación y manipulación de objetos, así como el acceso a sus atributos._
