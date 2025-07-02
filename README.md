@@ -36,3 +36,7 @@ _Captura y manejo de errores usando try, except, y finally._
 - Objetos y propiedades
 
 _Creación y manipulación de objetos, así como el acceso a sus atributos._
+
+- Herencia de clases y MRO (Method Resolution Order)
+
+_Cómo funciona la herencia y el orden de resolución de métodos en Python._
