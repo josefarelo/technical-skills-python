@@ -40,3 +40,7 @@ _Creación y manipulación de objetos, así como el acceso a sus atributos._
 - Herencia de clases y MRO (Method Resolution Order)
 
 _Cómo funciona la herencia y el orden de resolución de métodos en Python._
+
+- Clases y sintaxis moderna
+
+_Uso de clases con la sintaxis moderna de Python, métodos especiales y herencia._
