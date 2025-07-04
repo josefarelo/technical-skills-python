@@ -44,3 +44,7 @@ _Cómo funciona la herencia y el orden de resolución de métodos en Python._
 - Clases y sintaxis moderna
 
 _Uso de clases con la sintaxis moderna de Python, métodos especiales y herencia._
+
+- Encapsulación, herencia y polimorfismo
+
+_Principios fundamentales de POO aplicados en Python: encapsulamiento, herencia y polimorfismo._
