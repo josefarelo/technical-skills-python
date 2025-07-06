@@ -52,3 +52,7 @@ _Principios fundamentales de POO aplicados en Python: encapsulamiento, herencia 
 - Funciones de fábrica
 
 _Uso de funciones que retornan instancias de objetos de manera flexible en Python._
+
+- Composición de objetos
+
+_Construcción de objetos complejos a partir de otros más simples, en lugar de herencia._
