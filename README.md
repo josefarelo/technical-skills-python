@@ -56,3 +56,10 @@ _Uso de funciones que retornan instancias de objetos de manera flexible en Pytho
 - Composición de objetos
 
 _Construcción de objetos complejos a partir de otros más simples, en lugar de herencia._
+
+
+## 03 - Programación Funcional en Python
+
+- Funciones puras
+
+_Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios._
