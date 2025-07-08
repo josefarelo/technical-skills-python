@@ -63,3 +63,7 @@ _Construcción de objetos complejos a partir de otros más simples, en lugar de 
 - Funciones puras
 
 _Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios._
+
+- Inmutabilidad
+
+_Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos._
