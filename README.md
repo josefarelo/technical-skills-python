@@ -67,3 +67,7 @@ _Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma s
 - Inmutabilidad
 
 _Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos._
+
+- Funciones de orden superior
+
+_Funciones que aceptan otras funciones como argumentos o las retornan como resultados._
