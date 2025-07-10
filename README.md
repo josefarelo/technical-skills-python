@@ -71,3 +71,7 @@ _Principio de no modificar directamente los datos existentes, sino crear nuevas 
 - Funciones de orden superior
 
 _Funciones que aceptan otras funciones como argumentos o las retornan como resultados._
+
+- Currying
+
+_Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento._
