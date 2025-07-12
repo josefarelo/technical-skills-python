@@ -79,3 +79,7 @@ _Transformación de una función que toma múltiples argumentos en una serie de 
 - Composición de funciones
 
 _Técnica que permite encadenar funciones pequeñas en una sola función compleja._
+
+- Funciones y categorías
+
+_Estructuras que permiten mapear funciones sobre valores envueltos o estructurados._
