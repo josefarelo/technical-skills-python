@@ -83,3 +83,7 @@ _Técnica que permite encadenar funciones pequeñas en una sola función complej
 - Funciones y categorías
 
 _Estructuras que permiten mapear funciones sobre valores envueltos o estructurados._
+
+- Monads
+
+_Patrón que permite encadenar operaciones, manejando contextos como errores o valores nulos._
