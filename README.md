@@ -87,3 +87,7 @@ _Estructuras que permiten mapear funciones sobre valores envueltos o estructurad
 - Monads
 
 _Patrón que permite encadenar operaciones, manejando contextos como errores o valores nulos._
+
+- Lenses
+
+_Herramientas para acceder y modificar estructuras de datos inmutables de forma segura._
