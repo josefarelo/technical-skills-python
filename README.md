@@ -91,3 +91,7 @@ _Patrón que permite encadenar operaciones, manejando contextos como errores o v
 - Lenses
 
 _Herramientas para acceder y modificar estructuras de datos inmutables de forma segura._
+
+- Transductores
+
+_Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos._
