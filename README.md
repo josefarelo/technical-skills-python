@@ -95,3 +95,10 @@ _Herramientas para acceder y modificar estructuras de datos inmutables de forma 
 - Transductores
 
 _Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos._
+
+
+## 04 - Estructuras de Datos y Algoritmos en Python
+
+- Arrays, Objects, Sets, y Maps
+
+_Uso de estructuras de datos como listas, diccionarios, sets y su manipulación en Python._
