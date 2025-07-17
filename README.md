@@ -102,3 +102,7 @@ _Funciones que transforman otras funciones de transformación, permitiendo opera
 - Arrays, Objects, Sets, y Maps
 
 _Uso de estructuras de datos como listas, diccionarios, sets y su manipulación en Python._
+
+- Stacks y Queues
+
+_Estructuras de datos lineales que permiten inserción y eliminación en un orden específico (LIFO y FIFO)._
