@@ -106,3 +106,7 @@ _Uso de estructuras de datos como listas, diccionarios, sets y su manipulación 
 - Stacks y Queues
 
 _Estructuras de datos lineales que permiten inserción y eliminación en un orden específico (LIFO y FIFO)._
+
+- Listas enlazadas
+
+_Estructura donde cada nodo apunta al siguiente, permitiendo inserciones y eliminaciones eficientes._
