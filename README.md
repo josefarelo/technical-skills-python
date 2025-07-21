@@ -110,3 +110,7 @@ _Estructuras de datos lineales que permiten inserción y eliminación en un orde
 - Listas enlazadas
 
 _Estructura donde cada nodo apunta al siguiente, permitiendo inserciones y eliminaciones eficientes._
+
+- Recursion
+
+_Uso de la recursión para resolver problemas complejos de forma más elegante._
