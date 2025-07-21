@@ -4,23 +4,23 @@
 
 - Variables y Tipos de Datos
 
-_Declaración de variables y comprensión de tipos primitivos y estructuras de datos en Python._
+_Declaración de variables y comprensión de tipos primitivos y estructuras de datos._
 
 - Control de Flujo
 
-_Uso de instrucciones condicionales y bucles (if, elif, else, for, while) en Python._
+_Uso de instrucciones condicionales y bucles (if, elif, else, for, while)._
 
 - Funciones
 
-_Declaración y uso de funciones en Python, incluyendo funciones lambda._
+_Declaración y uso de funciones, incluyendo funciones lambda._
 
 - Alcance (Scope)
 
-_Cómo funcionan los ámbitos de variables en Python._
+_Cómo funcionan los ámbitos de variables._
 
 - Cierres (Closures)
 
-_Funciones que capturan el estado de su entorno en Python._
+_Funciones que capturan el estado de su entorno._
 
 - Contexto Self
 
@@ -39,7 +39,7 @@ _Creación y manipulación de objetos, así como el acceso a sus atributos._
 
 - Herencia de clases y MRO (Method Resolution Order)
 
-_Cómo funciona la herencia y el orden de resolución de métodos en Python._
+_Cómo funciona la herencia y el orden de resolución de métodos._
 
 - Clases y sintaxis moderna
 
@@ -47,11 +47,11 @@ _Uso de clases con la sintaxis moderna de Python, métodos especiales y herencia
 
 - Encapsulación, herencia y polimorfismo
 
-_Principios fundamentales de POO aplicados en Python: encapsulamiento, herencia y polimorfismo._
+_Principios fundamentales de POO: encapsulamiento, herencia y polimorfismo._
 
 - Funciones de fábrica
 
-_Uso de funciones que retornan instancias de objetos de manera flexible en Python._
+_Uso de funciones que retornan instancias de objetos de manera flexible._
 
 - Composición de objetos
 
@@ -101,7 +101,7 @@ _Funciones que transforman otras funciones de transformación, permitiendo opera
 
 - Arrays, Objects, Sets, y Maps
 
-_Uso de estructuras de datos como listas, diccionarios, sets y su manipulación en Python._
+_Uso de estructuras de datos como listas, diccionarios, sets y su manipulación._
 
 - Stacks y Queues
 
@@ -114,3 +114,7 @@ _Estructura donde cada nodo apunta al siguiente, permitiendo inserciones y elimi
 - Recursion
 
 _Uso de la recursión para resolver problemas complejos de forma más elegante._
+
+- Operaciones de matriz (map, filter, reduce)
+
+_Uso de funciones de orden superior para transformar, filtrar y reducir listas._
