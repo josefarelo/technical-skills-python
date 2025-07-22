@@ -118,3 +118,7 @@ _Uso de la recursión para resolver problemas complejos de forma más elegante._
 - Operaciones de matriz (map, filter, reduce)
 
 _Uso de funciones de orden superior para transformar, filtrar y reducir listas._
+
+- Algoritmos de ordenamiento
+
+_Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort._
