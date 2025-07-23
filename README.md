@@ -122,3 +122,7 @@ _Uso de funciones de orden superior para transformar, filtrar y reducir listas._
 - Algoritmos de ordenamiento
 
 _Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort._
+
+- Algoritmos de búsqueda
+
+_Algoritmos de búsqueda como búsqueda lineal y binaria para encontrar elementos._
