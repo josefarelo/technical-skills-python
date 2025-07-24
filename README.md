@@ -126,3 +126,7 @@ _Implementación de algoritmos de ordenamiento como bubble sort, quicksort y mer
 - Algoritmos de búsqueda
 
 _Algoritmos de búsqueda como búsqueda lineal y binaria para encontrar elementos._
+
+- Tipos de datos abstractos
+
+_Tipos abstractos como pilas, colas y listas, definiendo operaciones sin especificar implementación concreta._
