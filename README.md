@@ -130,3 +130,10 @@ _Algoritmos de búsqueda como búsqueda lineal y binaria para encontrar elemento
 - Tipos de datos abstractos
 
 _Tipos abstractos como pilas, colas y listas, definiendo operaciones sin especificar implementación concreta._
+
+
+## 05 - Programación Asíncrona en Python
+
+- Callbacks
+
+_Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución._
