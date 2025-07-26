@@ -137,3 +137,7 @@ _Tipos abstractos como pilas, colas y listas, definiendo operaciones sin especif
 - Callbacks
 
 _Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución._
+
+- Promesas
+
+_Objeto que representa la terminación o el fracaso eventual de una operación asíncrona._
