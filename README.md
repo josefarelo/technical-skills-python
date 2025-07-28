@@ -141,3 +141,7 @@ _Funciones que se ejecutan después de completar una operación asíncrona, perm
 - Promesas
 
 _Objeto que representa la terminación o el fracaso eventual de una operación asíncrona._
+
+- Async/Await
+
+_Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo el código más legible y mantenible._
