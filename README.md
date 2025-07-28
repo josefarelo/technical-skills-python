@@ -145,3 +145,7 @@ _Objeto que representa la terminación o el fracaso eventual de una operación a
 - Async/Await
 
 _Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo el código más legible y mantenible._
+
+- Manejo de errores asincrónicos
+
+_Manejo de errores en operaciones asíncronas utilizando bloques try, except y finally._
