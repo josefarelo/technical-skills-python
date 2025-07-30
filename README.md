@@ -149,3 +149,7 @@ _Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo el códi
 - Manejo de errores asincrónicos
 
 _Manejo de errores en operaciones asíncronas utilizando bloques try, except y finally._
+
+- Bucle de eventos
+
+_Mecanismo que permite que Python maneje múltiples operaciones asíncronas a través de un bucle de eventos._
