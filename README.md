@@ -153,3 +153,7 @@ _Manejo de errores en operaciones asíncronas utilizando bloques try, except y f
 - Bucle de eventos
 
 _Mecanismo que permite que Python maneje múltiples operaciones asíncronas a través de un bucle de eventos._
+
+- Ciclo de vida de la promesa
+
+_Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada. En Python, se maneja mediante Future y estados de la tarea._
