@@ -157,3 +157,10 @@ _Mecanismo que permite que Python maneje múltiples operaciones asíncronas a tr
 - Ciclo de vida de la promesa
 
 _Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada. En Python, se maneja mediante Future y estados de la tarea._
+
+
+## 06 - Buenas Prácticas de Código en Python
+
+- Código legible
+
+_Escribir código limpio y entendible siguiendo convenciones como PEP8._
