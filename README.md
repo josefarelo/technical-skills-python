@@ -164,3 +164,7 @@ _Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada. En Python
 - Código legible
 
 _Escribir código limpio y entendible siguiendo convenciones como PEP8._
+
+- Comentarios útiles
+
+_Escribir comentarios que expliquen el por qué de una decisión, no lo obvio._
