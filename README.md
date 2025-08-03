@@ -168,3 +168,7 @@ _Escribir código limpio y entendible siguiendo convenciones como PEP8._
 - Comentarios útiles
 
 _Escribir comentarios que expliquen el por qué de una decisión, no lo obvio._
+
+- Nombres descriptivos
+
+_Usar nombres significativos que indiquen claramente el propósito de una variable o función._
