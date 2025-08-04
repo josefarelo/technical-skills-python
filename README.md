@@ -172,3 +172,7 @@ _Escribir comentarios que expliquen el por qué de una decisión, no lo obvio._
 - Nombres descriptivos
 
 _Usar nombres significativos que indiquen claramente el propósito de una variable o función._
+
+- Modularidad
+
+_Dividir el código en funciones pequeñas con responsabilidades bien definidas._
