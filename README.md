@@ -176,3 +176,7 @@ _Usar nombres significativos que indiquen claramente el propósito de una variab
 - Modularidad
 
 _Dividir el código en funciones pequeñas con responsabilidades bien definidas._
+
+- Evitar duplicación
+
+_Aplicar el principio DRY (Don't Repeat Yourself)._
