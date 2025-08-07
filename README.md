@@ -180,3 +180,10 @@ _Dividir el código en funciones pequeñas con responsabilidades bien definidas.
 - Evitar duplicación
 
 _Aplicar el principio DRY (Don't Repeat Yourself)._
+
+
+## 07 - Patrones de Diseño en Python
+
+- Patrón Singleton
+
+_Asegurar que una clase tenga una única instancia y proporcionar un punto global de acceso a ella._
