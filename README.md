@@ -187,3 +187,7 @@ _Aplicar el principio DRY (Don't Repeat Yourself)._
 - Patrón Singleton
 
 _Asegurar que una clase tenga una única instancia y proporcionar un punto global de acceso a ella._
+
+- Patrón de fábrica
+
+_Crear objetos sin especificar la clase exacta del objeto que se va a crear._
