@@ -191,3 +191,7 @@ _Asegurar que una clase tenga una única instancia y proporcionar un punto globa
 - Patrón de fábrica
 
 _Crear objetos sin especificar la clase exacta del objeto que se va a crear._
+
+- Patrón de observador
+
+_Permitir a un objeto notificar a otros cuando cambia su estado._
