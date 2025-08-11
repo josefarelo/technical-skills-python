@@ -199,3 +199,7 @@ _Permitir a un objeto notificar a otros cuando cambia su estado._
 - Patrón de estrategia
 
 _Permitir cambiar el comportamiento de un objeto en tiempo de ejecución._
+
+- Patrón de adaptador
+
+_Convertir la interfaz de una clase en otra esperada por el cliente._
