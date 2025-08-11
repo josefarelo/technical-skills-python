@@ -195,3 +195,7 @@ _Crear objetos sin especificar la clase exacta del objeto que se va a crear._
 - Patrón de observador
 
 _Permitir a un objeto notificar a otros cuando cambia su estado._
+
+- Patrón de estrategia
+
+_Permitir cambiar el comportamiento de un objeto en tiempo de ejecución._
