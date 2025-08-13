@@ -203,3 +203,7 @@ _Permitir cambiar el comportamiento de un objeto en tiempo de ejecución._
 - Patrón de adaptador
 
 _Convertir la interfaz de una clase en otra esperada por el cliente._
+
+- Patrón decorador
+
+_Agregar funcionalidad a objetos dinámicamente sin modificar su estructura._
