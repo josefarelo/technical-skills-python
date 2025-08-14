@@ -207,3 +207,7 @@ _Convertir la interfaz de una clase en otra esperada por el cliente._
 - Patrón decorador
 
 _Agregar funcionalidad a objetos dinámicamente sin modificar su estructura._
+
+- Patrón de comando
+
+_Encapsular una petición como un objeto, permitiendo parametrizar clientes._
