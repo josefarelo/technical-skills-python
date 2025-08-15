@@ -211,3 +211,7 @@ _Agregar funcionalidad a objetos dinámicamente sin modificar su estructura._
 - Patrón de comando
 
 _Encapsular una petición como un objeto, permitiendo parametrizar clientes._
+
+- Patrón de proxy
+
+_Proveer un sustituto para controlar el acceso a otro objeto._
