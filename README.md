@@ -215,3 +215,7 @@ _Encapsular una petición como un objeto, permitiendo parametrizar clientes._
 - Patrón de proxy
 
 _Proveer un sustituto para controlar el acceso a otro objeto._
+
+- Patrón de constructor
+
+_Separar la construcción de un objeto complejo de su representación._
