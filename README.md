@@ -219,3 +219,7 @@ _Proveer un sustituto para controlar el acceso a otro objeto._
 - Patrón de constructor
 
 _Separar la construcción de un objeto complejo de su representación._
+
+- Método de plantilla
+
+_Definir el esqueleto de un algoritmo, delegando pasos a subclases._
