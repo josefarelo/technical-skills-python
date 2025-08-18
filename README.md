@@ -223,3 +223,10 @@ _Separar la construcción de un objeto complejo de su representación._
 - Método de plantilla
 
 _Definir el esqueleto de un algoritmo, delegando pasos a subclases._
+
+
+## 08 - Principios SOLID en Python
+
+- Principio de Responsabilidad Única (PRU)
+
+_Una clase debe tener una única razón para cambiar._
