@@ -41,4 +41,4 @@ if __name__ == "__main__":
     total = calculadora.calcular_total(empleados)
     
     reporte = ReporteSalarios()
-    reporte.imprimir_reporte(total)
+    reporte.imprimir_reporte(total) 
