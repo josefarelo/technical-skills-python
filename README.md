@@ -230,3 +230,7 @@ _Definir el esqueleto de un algoritmo, delegando pasos a subclases._
 - Principio de Responsabilidad Única (PRU)
 
 _Una clase debe tener una única razón para cambiar._
+
+- Principio de Abierto/Cerrado (OCP)
+
+_Las entidades deben estar abiertas para extensión, pero cerradas para modificación._
