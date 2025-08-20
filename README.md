@@ -234,3 +234,7 @@ _Una clase debe tener una única razón para cambiar._
 - Principio de Abierto/Cerrado (OCP)
 
 _Las entidades deben estar abiertas para extensión, pero cerradas para modificación._
+
+- Principio de sustitución de Liskov (LSP)
+
+_Las subclases deben poder reemplazar a sus superclases sin alterar el funcionamiento esperado._
