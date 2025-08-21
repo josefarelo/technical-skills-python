@@ -238,3 +238,7 @@ _Las entidades deben estar abiertas para extensión, pero cerradas para modifica
 - Principio de sustitución de Liskov (LSP)
 
 _Las subclases deben poder reemplazar a sus superclases sin alterar el funcionamiento esperado._
+
+- Principio de segregación de interfaces (ISP)
+
+_Los clientes no deben depender de interfaces que no utilizan._
