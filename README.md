@@ -246,3 +246,10 @@ _Los clientes no deben depender de interfaces que no utilizan._
 - Principio de inversión de dependencia (DIP)
 
 _Los módulos de alto nivel no deben depender de los de bajo nivel, ambos deben depender de abstracciones._
+
+
+## 09 - Testing en Python
+
+- Pruebas unitarias con unittest (función pura)
+
+_Probar funciones puras con casos simples y repetibles._
