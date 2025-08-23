@@ -242,3 +242,7 @@ _Las subclases deben poder reemplazar a sus superclases sin alterar el funcionam
 - Principio de segregación de interfaces (ISP)
 
 _Los clientes no deben depender de interfaces que no utilizan._
+
+- Principio de inversión de dependencia (DIP)
+
+_Los módulos de alto nivel no deben depender de los de bajo nivel, ambos deben depender de abstracciones._
