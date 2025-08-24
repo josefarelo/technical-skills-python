@@ -253,3 +253,7 @@ _Los módulos de alto nivel no deben depender de los de bajo nivel, ambos deben 
 - Pruebas unitarias con unittest (función pura)
 
 _Probar funciones puras con casos simples y repetibles._
+
+- Pruebas de clase con unittest (configuración/desmontaje)
+
+_Preparar y limpiar el estado antes y después de cada test._
