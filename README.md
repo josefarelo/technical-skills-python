@@ -257,3 +257,7 @@ _Probar funciones puras con casos simples y repetibles._
 - Pruebas de clase con unittest (configuración/desmontaje)
 
 _Preparar y limpiar el estado antes y después de cada test._
+
+- Pruebas parametrizadas con pytest
+
+_Reducir repetición usando @pytest.mark.parametrize._
