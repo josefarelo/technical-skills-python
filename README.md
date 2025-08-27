@@ -261,3 +261,7 @@ _Preparar y limpiar el estado antes y después de cada test._
 - Pruebas parametrizadas con pytest
 
 _Reducir repetición usando @pytest.mark.parametrize._
+
+- Mocking de dependencias externas (unittest.mock)
+
+_Aislar el código de IO/red con patch y objetos simulados._
