@@ -265,3 +265,7 @@ _Reducir repetición usando @pytest.mark.parametrize._
 - Mocking de dependencias externas (unittest.mock)
 
 _Aislar el código de IO/red con patch y objetos simulados._
+
+- Accesorios en pytest
+
+_Reutilizar preparación de estado con fixtures._
