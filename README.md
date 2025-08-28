@@ -269,3 +269,7 @@ _Aislar el código de IO/red con patch y objetos simulados._
 - Accesorios en pytest
 
 _Reutilizar preparación de estado con fixtures._
+
+- TDD mini–kata (FizzBuzz)
+
+_Escribir tests primero, luego la implementación mínima._
