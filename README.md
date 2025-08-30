@@ -273,3 +273,7 @@ _Reutilizar preparación de estado con fixtures._
 - TDD mini–kata (FizzBuzz)
 
 _Escribir tests primero, luego la implementación mínima._
+
+- Tests de excepciones
+
+_Verificar que se lancen errores esperados._
